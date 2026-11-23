@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.embeddable/embeddable",
+  "title": "Embeddable",
+  "description": "Build, edit, preview and publish website widgets and landing pages with Embeddable's AI builder.",
+  "version": "1.0.0",
+  "websiteUrl": "https://embeddable.co",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.embeddable.co/mcp"
+    }
+  ]
+}
